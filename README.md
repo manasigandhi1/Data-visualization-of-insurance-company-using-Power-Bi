@@ -142,9 +142,7 @@ This dashboard helps stakeholders:
 ## 📷 Dashboard Preview
 
 
-```md
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Vz4POMZmmlI/0.jpg)](https://www.youtube.com/watch?v=Vz4POMZmmlI)
-```
 
 ---
 
