@@ -148,6 +148,9 @@ This dashboard helps stakeholders:
 
 ## 👨‍💻 Author
 
-**Manasi Gandhi**
+
+---
+
+[Manasi Gandhi](https://manasigandhiportfolio.lovable.app/)
 
 Power BI | SQL | Data Analytics | Dashboard Development
